@@ -1,0 +1,11 @@
+{
+    "name": "easy-roboport-placement",
+    "version": "0.0.1",
+    "title": "EasyRoboportPlacement",
+    "author": "KlauzWayne",
+    "contact": "klauzwayne@gmail.com",
+    "homepage": "",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Eases Roboport placement by making ghost Roboport range visible"
+}
