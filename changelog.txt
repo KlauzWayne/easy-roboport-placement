@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 05. 11. 2023
+  Features:
+    - Added custom user input support to toggle settings
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 04. 11. 2023
+  Features:
+    - Initial release.
+    - Placing ghost roboports now draws logistic ranges visible in Alt-Mode
+	- Feature can be toggled in mod settings
